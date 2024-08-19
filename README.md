@@ -13,5 +13,5 @@ Este projeto utiliza o Power BI para visualizar e analisar dados de stock em tem
    - **Ferramenta de visualização:** Power BI
    - **Linguagem:** Python
 
-Isenção de responsabilidade
+## Isenção de responsabilidade
 Este projeto destina-se apenas a fins educativos e não constitui aconselhamento financeiro. Os utilizadores são aconselhados a realizar a sua própria investigação e diligência prévia antes de tomarem quaisquer decisões de investimento.
