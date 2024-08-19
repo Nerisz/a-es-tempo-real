@@ -1,4 +1,4 @@
-# Análise de ações com o Power BI e o Yahoo Finance
+# Análise de ações no Power BI com Python e Yahoo Finances
 Este repositório contém o código e os recursos para um dashboard do Power BI que apresenta dados de ações em tempo real do Yahoo Finance.
 
 ![image](https://github.com/user-attachments/assets/dfcce401-899e-45d4-b8a8-1c5696fad94b)
