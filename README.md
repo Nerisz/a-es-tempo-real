@@ -10,7 +10,7 @@ Este projeto utiliza o Power BI para visualizar e analisar dados de stock em tem
 
    - **Fonte de dados:** Yahoo Finance
    - **Acesso aos dados:** Através do seu sítio Web https://finance.yahoo.com/lookup/
-   - **Ferramenta de visualização:** Power BI
+   - **Ferramenta de visualização:** Power BI, Matplotlib e pandas
    - **Linguagem:** Python
 
 ## Isenção de responsabilidade
